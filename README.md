@@ -1,6 +1,6 @@
-### < Hello, World /> 🙋🏻✨
+## < Hello, World /> 🙋🏻✨
 
-I'm Maria Luísa Costa, but you can call me **Malu**. I'm a Front End web student from Brasil, 22 years old and a lover of technology, programming and cats! 🐱
+I'm Maria Luísa Costa, but you can call me **Malu**. I'm a Front End web student from Brasil, 23 years old and a lover of technology, programming and cats! 🐱
 
 - 💘 HTML, CSS;
 - 🌱 I’m currently learning **JavaScript**; 
