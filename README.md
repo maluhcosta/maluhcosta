@@ -10,7 +10,7 @@
   <img src="https://cdn.glitch.com/5e6819bf-0707-4f13-ba4b-a25a27b3688e%2Ficons8-instagram-30.png?v=1604074693781" alt="icone do instagram">
 </p>
 
-<p align="center">I started programming in <strong>2019</strong> (Python) | <strong>2020</strong> (Font-End)</p>
+<p align="center">I started programming in <strong>2019</strong> (Python) | <strong>2020</strong> (Front-End)</p>
 <p align="center">I'm from <strong>Brasil</strong> and I love <strong>cats</strong> and traveling!</p>
 
 <p align="center">
