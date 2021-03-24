@@ -20,5 +20,5 @@
 [![Build Status](https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://malu-website.vercel.app/)
 [![Build Status](https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maluhcosta/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maluhcosta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Maria Luísa GitHub stats](https://github-readme-stats.vercel.app/api?username=maluhcosta&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maluhcosta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
