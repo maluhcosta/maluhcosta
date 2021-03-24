@@ -2,7 +2,7 @@
   <img src="https://cdn.glitch.com/5e6819bf-0707-4f13-ba4b-a25a27b3688e%2Fgiphy.gif?v=1615515957680" width="80"> 
 </p>
 <h2 align="center">Meu nome é Maria Luísa!</h2>
-<p align="center">Desenvolvedora Front-End Jr • 23 anos • Recife/PE.</p>
+<p align="center">Desenvolvedora Front-End Jr • 23 anos • Recife/PE</p>
 <p align="center">Iniciei meus estudos em <strong>2019</strong> com Python e <strong>2020</strong> com Front-end e SQL</p>
 
 ### Tecnologias:
