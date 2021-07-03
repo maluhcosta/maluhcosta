@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.glitch.com/5e6819bf-0707-4f13-ba4b-a25a27b3688e%2Fgiphy.gif?v=1615515957680" width="80"> 
+  <img src="https://cdn.glitch.com/d18144e1-0b37-4b94-89bf-b9ba5d7222d0%2Fgif.gif?v=1625329518456" width="130"> 
 </p>
 <h2 align="center">Meu nome é Maria Luísa!</h2>
 <p align="center">Desenvolvedora Front-End Jr • 23 anos • Recife/PE</p>
@@ -23,6 +23,7 @@
 <p>💻 <b>Front-End:</b> HTML | CSS | JavaScript (Sass, Less, Gulp, Babel, Bootstrap, React)</p>
 <p>🌐 <b>Back-End:</b> Python | MySQL | Node</p>
 <p>🔧 <b>Ide&Tools:</b> VS Code | PyCharm | Git/Github | NPM | Yarn | Windows | Linux</p>
+<p>📚 <b>Estudando:</b> Angular | PHP | PostgreSQL | Docker</p>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
