@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://cdn.glitch.com/d18144e1-0b37-4b94-89bf-b9ba5d7222d0%2Fgif.gif?v=1625329518456" width="130"> 
 </p>
-<h2 align="center">Meu nome é Maria Luísa!</h2>
-<p align="center">Desenvolvedora Front-End Jr • 24 anos • Recife/PE</p>
+<h2 align="center">Olá, meu nome é Maria Luísa!</h2>
+<p align="center">Desenvolvedora Front-end • 24 anos • Recife/PE</p>
 <p align="center">Iniciei meus estudos em <strong>2019</strong> com Python e <strong>2020</strong> com Front-end e SQL</p>
 
 <div align="center">
@@ -20,10 +20,12 @@
 </div>
 
 ### Tecnologias:
-<p>💻 <b>Front-End:</b> HTML | CSS | JavaScript (Sass, Less, Gulp, Babel, Bootstrap, React)</p>
-<p>🌐 <b>Back-End:</b> Python | MySQL | Node</p>
+<p>👑 <b>Main:</b> JavaScript | Python</p>
+<p>💻 <b>Front-End:</b> HTML | CSS | Sass | Less | Gulp | Babel | Bootstrap | React | React Native</p>
+<p>🌐 <b>Back-End and Data:</b> Node | PostgreSQL | MySQL | Docker</p>
 <p>🔧 <b>Ide&Tools:</b> VS Code | PyCharm | Git/Github | NPM | Yarn | Windows | Linux</p>
-<p>📚 <b>Estudando:</b> Angular | PHP | PostgreSQL | Docker</p>
+<p>💻 <b>Cloud:</b> AWS | Digital Ocean</p>
+<p>📚 <b>Studying:</b> Angular | PHP</p>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
