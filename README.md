@@ -21,11 +21,11 @@
 
 ### Tecnologias:
 <p>👑 <b>Main:</b> JavaScript | Python</p>
-<p>💻 <b>Front-End:</b> HTML | CSS | Sass | Less | Gulp | Babel | Bootstrap | React | React Native</p>
+<p>💻 <b>Front-End:</b> HTML | CSS | Sass | Less | Gulp | Babel | Bootstrap | React</p>
+<p>📱  <b>Mobile:</b> React Native</p>
 <p>🌐 <b>Back-End and Data:</b> Node | PostgreSQL | MySQL | Docker</p>
 <p>🔧 <b>Ide&Tools:</b> VS Code | PyCharm | Git/Github | NPM | Yarn | Windows | Linux</p>
 <p>💻 <b>Cloud:</b> AWS | Digital Ocean</p>
-<p>📚 <b>Studying:</b> Angular | PHP</p>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
