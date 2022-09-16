@@ -2,7 +2,7 @@
   <img src="https://cdn.glitch.com/d18144e1-0b37-4b94-89bf-b9ba5d7222d0%2Fgif.gif?v=1625329518456" width="130"> 
 </p>
 <h2 align="center">Olá, meu nome é Maria Luísa!</h2>
-<p align="center">Desenvolvedora Front-end • 24 anos • Recife/PE</p>
+<p align="center">Desenvolvedora full stack • 25 anos • Recife/PE - São Paulo/SP</p>
 <p align="center">Iniciei meus estudos em <strong>2019</strong> com Python e <strong>2020</strong> com Front-end e SQL</p>
 
 <div align="center">
